@@ -1,0 +1,12 @@
+#Id;Name;StartTime;EndTime;Days(mtwhfsu)
+#
+#
+#[3 Credits - Concepts of Programming Language]
+#84645;CS 4308/01 (M);12:30;13:45;m:w
+84644;CS 4308/01 (M);14:00;15:15;m:w
+#
+#[3 Credits - Computer Graphics & Multimedia]
+84809;CS 4722/01 (M);15:30;16:45;t:h
+#
+#[3 Credits - Machine Vision]
+84813;CS 4732/01 (M);15:30;16:45;t:h 

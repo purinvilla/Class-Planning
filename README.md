@@ -1,7 +1,7 @@
 [WHAT IS THIS?]
-A Java software to manage class scheduling at universities.
-- Shortens time needed to choose and register classes
-- Helps to identify when two or more classes conflict with each other
+- A Java software to manage class scheduling at universities.
+- Shortens time needed to choose and register classes.
+- Helps to identify when two or more classes conflict with each other.
 
 [HOW TO RUN]
 - java com.patricksak.classesPlanning.Main classData_input.txt > classSchedule_output.txt
